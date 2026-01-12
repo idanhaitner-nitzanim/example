@@ -19,3 +19,4 @@ def div(num1, num2):
         print("Cannot divide by zero")
     else:
         return num1 / num2
+    print("Hello")
